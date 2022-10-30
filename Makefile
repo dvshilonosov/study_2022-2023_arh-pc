@@ -8,7 +8,7 @@ COURSE =
 #include config/course/$(COURSE)
 #endif
 
-all: prepare
+all:prepare
 
 help:
 	@echo 'Usage:'
